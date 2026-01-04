@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f9f9f9;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.filters {
+  margin-bottom: 15px;
+  text-align: center;
+}
+label {
+  margin: 0 10px;
+}
+select, input {
+  padding: 5px;
+  margin: 0 10px;
+}
+table {
+  width: 100%;
+}
+a {
+  color: #0073e6;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
